@@ -1,0 +1,6 @@
+python_version >= 3.9
+streamlit==1.43.2
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==2.2.3
+joblib==1.4.2
